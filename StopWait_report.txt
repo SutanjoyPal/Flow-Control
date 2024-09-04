@@ -1,0 +1,27 @@
+
+sutanjoy is sending data to suman--------------------
+Total packet sent = 3
+Effective packet sent = 2
+Total time taken = 0.050590 minutes
+Receiver Throughput =    379 bps
+Utilization percentage =   9.49 %
+Average Successful Transmission time of a packet = 1.517700 seconds/packet
+
+
+suman is sending data to ayush--------------------
+Total packet sent = 72
+Effective packet sent = 36
+Total time taken = 1.494518 minutes
+Receiver Throughput =    231 bps
+Utilization percentage =   4.62 %
+Average Successful Transmission time of a packet = 2.490863 seconds/packet
+
+
+ayush is sending data to suman--------------------
+Total packet sent = 74
+Effective packet sent = 36
+Total time taken = 1.568308 minutes
+Receiver Throughput =    220 bps
+Utilization percentage =   4.41 %
+Average Successful Transmission time of a packet = 2.613847 seconds/packet
+
